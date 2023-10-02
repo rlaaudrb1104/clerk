@@ -53,7 +53,7 @@ export default function Home() {
       </div>
       <div className="mb-4 bg-gray-100 p-4 m-4 rounded-lg">
         <Link
-          href="https://clerk2-kohl.vercel.app/"
+          href="https://clerk-delta.vercel.app/"
           className="text-xl text-blue-700 font-bold"
         >
           Web service at vercel.com
